@@ -1,0 +1,233 @@
+.header {
+  height: 40%;
+  background-image:url('surffail.jpg');
+  width: 100%;
+  background-size: cover;
+  background-position-y: -305px;
+}
+
+.topper {
+  width: 100%;
+  height: 50px;
+  display: inline-block;
+  color: black;
+}
+
+.topperimage {
+  height: 20px;
+  width:20px
+}
+
+.header_color {
+  height: 100%;
+  background-color:blue;
+  width: 100%;
+  opacity:0.2;
+
+}
+.header_text {
+  text-align: center;
+  font-size: 60;
+  font-family: sans-serif;
+  color: white;
+
+}
+
+div.left {
+  width: 500px;
+  height: 800px;
+  border: 1px solid white;
+  float:left;
+    margin-left: 200px;
+}
+
+.left_header {
+  height: 50px;
+  width:500px;
+  text-align: left;
+  font-family: sans-serif;
+  font-size: 40px;
+
+}
+
+div.top_left {
+  width:500px;
+  height: 800px;
+  border: 1px solid white;
+  font-family: sans-serif;;
+  font-size: 10px;
+  color:lightgrey;
+  padding-top: 5px
+}
+
+.auth_color {
+  color: blue;
+  font-weight: 600;
+
+}
+.date {
+  text-decoration: underline;
+}
+.author_header {
+  width: 20px;
+  height: 20px;
+}
+
+.left_body_top {
+  width: 500px;
+  height:230px;
+  border: 1px solid white;
+  font-size: 20px;
+  font-family: sans-serif;
+  color:black;
+
+}
+.left_body_break {
+  border-left: 3px solid grey;
+  font-size: 30px;
+  color:blue;
+  font-weight: bolder;
+  margin-left: 50px;
+}
+.letf_body_bottom {
+  width: 500px;
+  height:200px;
+  border: 20px solid white;
+/*--right bar--*/
+}
+div.right {
+  width: 200px;
+  height:700px;
+  border: 1px solid white;
+  float: left;
+}
+
+a {
+  font-size: 10px;
+  text-decoration: none;
+  color: lightgrey;
+  font-family: sans-serif;
+
+}
+.author {
+  width: 80px;
+  height: 80px;
+  border-radius: 100%;
+  margin-left: 50px;
+
+
+}
+
+.paddle {
+  width: 200px;
+  height:200px;
+  background-color: blue;
+  opacity: 0.5;
+
+
+}
+
+.paddleblue {
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+}
+
+.author_name {
+  font-family: sans-serif;
+  color: blue;
+  text-align: center;
+
+}
+
+.sidebarfiller {
+  font-size: 20px;
+}
+
+div.top_right {
+  height: 100px;
+  width: 200px;
+  border: 1px solid white;
+  margin-left: 0px;
+  padding-top: 30px;
+}
+
+.bottomrighttext {
+  font-size: 16px;
+  color: lightgrey;
+}
+
+/*bottom classes*/
+
+div.bottom {
+  height: 500px;
+  width:100% ;
+  background-color: white;
+  border-top: 2px solid grey;
+  float: left;
+  display: inline-block;
+  margin-left: 50px;
+}
+
+.bottombar {
+  text-align: center;
+  font-size: 40px;
+  font-family: sans-serif;
+  color: blue;
+
+
+}
+
+.bottom {
+  border-top: 4px solid grey;
+}
+
+.box {
+  height: 200px;
+  width: 200px;
+  display: inline-block;
+  background-color: blue;
+  border-top: 2px solid grey;
+  border-left: 50px solid white;
+
+
+}
+
+.stone {
+  height: 200px;
+  width: 200px;
+
+  opacity: 0.5;
+
+}
+
+.blessed{
+
+  height: 200px;
+  width: 200px;
+
+  opacity: 0.7;
+
+}
+
+.beer {
+
+  height: 200px;
+  width: 200px;
+
+  opacity: 0.9;
+}
+
+.verybottom {
+
+  width: 100%;
+  height: 40%;
+  background-color: blue;
+}
+
+header {
+
+}
+body {
+
+}
